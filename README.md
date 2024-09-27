@@ -1,4 +1,4 @@
-# PROJECTNAME
+# File Integrity Monitoring
 
 ## Objective
 [Brief Objective - Remove this afterwards]
